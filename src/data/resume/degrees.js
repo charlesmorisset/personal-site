@@ -1,15 +1,15 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Universite Pierre et Marie Curie - Paris 6',
+    degree: 'PhD in Computer Science',
+    link: 'https://en.wikipedia.org/wiki/Pierre_and_Marie_Curie_University',
+    year: 2007,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Universite Pierre et Marie Curie - Paris 6',
+    degree: 'MSc in Computer Science',
+    link: 'https://en.wikipedia.org/wiki/Pierre_and_Marie_Curie_University',
+    year: 2004,
   },
 ];
 

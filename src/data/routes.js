@@ -1,13 +1,14 @@
 const routes = [
   {
     index: true,
-    label: "Michael D'Angelo",
+    label: 'Charles Morisset',
     path: '/',
   },
   {
-    label: 'About',
+    label: 'About me',
     path: '/about',
   },
+
   {
     label: 'Resume',
     path: '/resume',
@@ -15,10 +16,6 @@ const routes = [
   {
     label: 'Projects',
     path: '/projects',
-  },
-  {
-    label: 'Stats',
-    path: '/stats',
   },
   {
     label: 'Contact',

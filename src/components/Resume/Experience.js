@@ -3,11 +3,11 @@ import PropTypes from 'prop-types';
 
 import Job from './Experience/Job';
 
-const Experience = ({ data }) => (
+const Positions = ({ data }) => (
   <div className="experience">
-    <div className="link-to" id="experience" />
+    <div className="link-to" id="positions" />
     <div className="title">
-      <h3>Experience</h3>
+      <h3>Positions</h3>
     </div>
     {data.map((job) => (
       <Job
@@ -18,7 +18,7 @@ const Experience = ({ data }) => (
   </div>
 );
 
-Experience.propTypes = {
+Positions.propTypes = {
   data: PropTypes.arrayOf(PropTypes.shape({
     company: PropTypes.string,
     position: PropTypes.string,
@@ -28,8 +28,8 @@ Experience.propTypes = {
   })),
 };
 
-Experience.defaultProps = {
+Positions.defaultProps = {
   data: [],
 };
 
-export default Experience;
+export default Positions;
