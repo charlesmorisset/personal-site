@@ -16,7 +16,7 @@ const Index = () => (
           </p>
         </div>
       </header>
-      <p> Welcome to my personal website. It is directly forked from
+      <p> Welcome to my personal website. It is directly forked from {' '}
         <a href="https://mldangelo.github.io/personal-site/">Michael D&apos;Angelo&apos;s excellent website</a>. You
         can check more details {' '} <Link to="/about">about me</Link>, have a look at my {' '}
         <Link to="/resume">resume</Link> or my current {' '}
