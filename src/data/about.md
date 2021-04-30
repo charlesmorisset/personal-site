@@ -3,7 +3,7 @@
 
 I'm a Senior Lecturer in the School of Computing at Newcastle University. I joined the School in 2013, 
 as a Senior Research Associate working with Aad van Moorsel and got my Lectureship in 2016 and 
-Senior Lectureship in 2019. 
+Senior Lectureship in 2019. Since February 2020, I'm also Director of Postgraduate Studies for the School. 
 
 # Research Projects
 
